@@ -1,4 +1,4 @@
-$('.bmc-modal-backdrop').click(function(e) {
+$('seletor::pseudo-elemento').click(function(e) {
     if (e.offsetX > e.target.offsetLeft) {
         //console.info('click on element')
     }
